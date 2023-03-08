@@ -1,4 +1,4 @@
-# Web Services com Spring Boot e JPA / Hibernate
+]]]]# Web Services com Spring Boot e JPA / Hibernate
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Raphaviero/Workshop-SpringBoot3-JPA/blob/main/LICENCE) 
 
 # Objetivos do projeto
@@ -20,6 +20,9 @@
 
 # Tecnologias utilizadas
 ## Back end
+- Spring Boot
+- JPA
+- PP (REST)
 - Java
 - Maven
 - Apache Tomcat
